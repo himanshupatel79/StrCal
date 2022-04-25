@@ -13,7 +13,7 @@ Solution has mainly 3 below files
 
 #### Hypothesis and choice
 
-For simplicity max number is allowed is 100, which can be changed by 
+For simplicity max number allowed is 100, which can be changed by 
 changes `const MAX_NUMBER_ALLOWED = 100;` in `StrCal.php` file.
 
 #### How to run it
